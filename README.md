@@ -1,10 +1,5 @@
 # runnable-npx
 
-```
-Hello Carlo!
-
-```
-
 ## Install
 
     npm install -g cowsay
@@ -12,3 +7,4 @@ Hello Carlo!
 ## Usage
 
     npx runnable-npx "YourName"
+    // Hello Carlo!
