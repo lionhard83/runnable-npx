@@ -1,0 +1,23 @@
+{
+  "name": "runnable-npx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "bin": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build",
+    "start": "npm run build && node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lionhard83/runnable-npx.git"
+  },
+  "keywords": ["npx", "npm", "runnable", "params"],
+  "author": "Carlo Leonardi<carloleonardi83@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.8"
+  }
+}
