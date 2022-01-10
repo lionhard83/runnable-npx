@@ -11,4 +11,4 @@ Hello Carlo!
 
 ## Usage
 
-    npx runnable-npx YourName
+    npx runnable-npx "YourName"
