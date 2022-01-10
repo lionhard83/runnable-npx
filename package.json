@@ -1,6 +1,6 @@
 {
   "name": "runnable-npx",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple npm module, runnable by npx",
   "main": "dist/index.js",
   "bin": "dist/index.js",
