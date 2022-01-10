@@ -1,7 +1,7 @@
 {
   "name": "runnable-npx",
   "version": "1.0.4",
-  "description": "",
+  "description": "A simple npm module, runnable by npx",
   "main": "dist/index.js",
   "bin": "dist/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "keywords": ["npx", "npm", "runnable", "params"],
   "author": "Carlo Leonardi<carloleonardi83@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^17.0.8"
   }
