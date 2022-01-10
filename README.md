@@ -2,7 +2,7 @@
 
 ## Install
 
-    npm install -g cowsay
+    npm install -g runnable-npx
 
 ## Usage
 
